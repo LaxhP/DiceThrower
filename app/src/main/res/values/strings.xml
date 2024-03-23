@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DiceThrowerActivity</string>
+    <string name="diceValue" translatable="false">\?</string>
+    <string name="throw_dice">Throw %d dice</string>
+    <string name="congrats6">Congrats, all dices are 6</string>
+    <string name="easterEgg">You found the easter egg</string>
+    <string name="fortune" translatable="false"></string>
+    <string name="switch_activity">Fortune</string>
+    <string name="new_fortune">New Fortune</string>
+    <string name="switchDice">Dice</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DiceThrowerActivity</string>
+    <string name="throw_dice">Lancer %d dé</string>
+    <string name="congrats6">Bravo, vous avez obtenu que des 6</string>
+    <string name="easterEgg">Vous avez trouvé l\'easter egg</string>
+    <string name="switch_activity">Fortune</string>
+    <string name="new_fortune">Nouvelle Fortune</string>
+    <string name="switchDice">Dé</string>
+</resources>
